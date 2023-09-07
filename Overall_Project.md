@@ -1,4 +1,4 @@
-# data-bootcamp-07
+# Data Science Bootcamp 07
 This is all of my data project in Data Science Bootcamp 7
 - [SQL] Restaurant Database 
 - [R] Chatbot Pizza Restaurant  
