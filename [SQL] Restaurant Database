@@ -1,8 +1,5 @@
-I create restaurant database
-
-```
 .open restaurant.db
-```
+
 
 --DROP Table
 DROP table menus;
