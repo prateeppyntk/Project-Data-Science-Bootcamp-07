@@ -1,4 +1,4 @@
-# Data-Science-Bootcamp-07
+# Project-Data-Science-Bootcamp-07
 This is all of my data project in Data Science Bootcamp 7
 
 - [SQL] Restaurant Database 
